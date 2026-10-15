@@ -1,7 +1,7 @@
 # Raster
 
 **A native Windows painting application, written from scratch in C++20 and Direct3D 11.**
-Built for pen tablets, in the spirit of Paint Tool SAI: a brush engine that keeps up with
+Built for pen tablets: a brush engine that keeps up with
 the pen, 16-bit colour throughout, real CMYK, and an interface that stays out of the way.
 
 > **About this repository.** Raster itself is closed source. This is a showcase: screenshots,
