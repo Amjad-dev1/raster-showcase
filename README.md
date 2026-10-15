@@ -108,9 +108,4 @@ pen / mouse -> stabilizer -> BrushEngine -+-> StrokeBuffer (GPU, RGBA16 premulti
 C++20, Win32, Direct3D 11 and HLSL, DXGI flip-model swapchain, Windows Ink (`WM_POINTER`)
 for pressure and tilt, Little CMS for ICC, WIC for image codecs, CMake and vcpkg.
 
----
 
-## Copyright
-
-Copyright (c) 2026 &lt;Your Name&gt;. All rights reserved. The code in this repository is
-published for viewing only; see [LICENSE](LICENSE).
